@@ -10,5 +10,5 @@ This line was added locally (for rebase test).
 This is my first test line.
 This line is for the amend commit test.
 This line was added later for amend testing.
-This is Remote edit
+This is Remote edit.
 This is another Remote edit.
